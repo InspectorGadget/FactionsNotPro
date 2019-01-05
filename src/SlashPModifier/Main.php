@@ -18,7 +18,6 @@ class Main extends PluginBase implements Listener {
 
 	public $commands = [
 		"/plugins",
-		"/p",
 		"/pocketmine:plugins"
 	];
 
