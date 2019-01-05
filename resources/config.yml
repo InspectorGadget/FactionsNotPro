@@ -1,0 +1,13 @@
+---
+
+# <Haha Yes!>
+# By IG#4095 (Discord)
+
+enable: true
+
+message: 
+  - "Line 1"
+  - "Line 2"
+  - "Line 3"
+
+...
